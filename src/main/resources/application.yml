@@ -7,7 +7,7 @@ server:
 
 spring:
   application:
-    name: gateway
+    name: gateway-t1
   cloud:
     gateway:
       discovery:
@@ -22,3 +22,5 @@ spring:
       discovery:
         server-addr: 127.0.0.1:8848
 
+
+name: kkkk
